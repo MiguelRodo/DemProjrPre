@@ -1,5 +1,7 @@
 # CHANGELOG
 
+- Patch (v1.2.5): Miguel Julio Rodo (11:26:36)
+  - Add all it should
 - Patch (v1.2.4): Miguel Julio Rodo (11:13:58)
   - Test why not committing
 - Patch (v1.2.3): Miguel Julio Rodo (11:13:22)
