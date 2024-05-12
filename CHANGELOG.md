@@ -1,5 +1,7 @@
 # CHANGELOG
 
+- Patch (v1.2.1): Miguel Julio Rodo (11:08:22)
+  - Fix bug
 - *Minor* (v1.2.0): Miguel Julio Rodo (11:07:15)
   - Add things
 
