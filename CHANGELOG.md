@@ -1,5 +1,7 @@
 # CHANGELOG
 
+- Patch (v1.2.4): Miguel Julio Rodo (11:13:58)
+  - Test why not committing
 - Patch (v1.2.3): Miguel Julio Rodo (11:13:22)
   - Test things
 - Patch (v1.2.2): Miguel Julio Rodo (11:12:45)
