@@ -1,5 +1,8 @@
 # CHANGELOG
 
+- *Minor* (v1.2.0): Miguel Julio Rodo (11:07:15)
+  - Add things
+
 - *Minor* (v1.1.0): Miguel Julio Rodo (11:05:49)
   - Add figures
 
