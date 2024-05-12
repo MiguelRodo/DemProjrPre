@@ -1,0 +1,18 @@
+---
+title: Demonstration
+html:
+  embed-resources: true
+---
+
+# Amazing
+
+<world-beating content>
+
+```{r}
+png(projr::projr_path_get("output", "amazing.png"))
+plot(1, 1)
+points(1.2, 1.2)
+dev.off()
+```
+
+add_

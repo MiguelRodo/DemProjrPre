@@ -1,0 +1,32 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "DemProjrPre" in publications use:'
+type: software
+title: 'DemProjrPre: Demonstrate projr'
+version: 0.0.0-1
+abstract: Demonstrate projr
+authors:
+- family-names: Rodo
+  given-names: Miguel
+  email: miguel.rodo@uct.ac.za
+preferred-citation:
+  type: generic
+  title: 'DemProjrPre: Demonstrate projr'
+  authors:
+  - family-names: Rodo
+    given-names: Miguel
+    email: miguel.rodo@uct.ac.za
+  url: https://github.com//DemProjrPre/#readme
+  abstract: Demonstrate projr
+  version: 0.0.0-1
+repository-code: https://github.com//DemProjrPre
+url: https://github.com//DemProjrPre/#readme
+contact:
+- family-names: Rodo
+  given-names: Miguel
+  email: miguel.rodo@uct.ac.za
+
