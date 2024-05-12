@@ -1,5 +1,7 @@
 # CHANGELOG
 
+- Patch (v1.2.3): Miguel Julio Rodo (11:13:22)
+  - Test things
 - Patch (v1.2.2): Miguel Julio Rodo (11:12:45)
   - Test things
 - Patch (v1.2.1): Miguel Julio Rodo (11:08:22)
